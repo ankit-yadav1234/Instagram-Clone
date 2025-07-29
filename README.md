@@ -42,7 +42,6 @@ A full-featured clone of Instagram built using **Android Studio**, **Kotlin**, a
 </div>
 
 
-
 ## 🛠️ How to Run the App
 
 1. Clone the repository:
