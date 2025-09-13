@@ -31,9 +31,7 @@ A full-featured clone of Instagram built using **Android Studio**, **Kotlin**, a
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">![register](https://github.com/user-attachments/assets/4d8e024f-b28f-4cd7-9a9a-43f55626e3fa)
+## 📸 Screens![register](https://github.com/user-attachments/assets/4d8e024f-b28f-4cd7-9a9a-43f55626e3fa)
 
 
 ![split_screen](https://github.com/user-attachments/assets/29b99487-a61f-41fb-84d9-5f11d54b711b)
@@ -55,4 +53,4 @@ A full-featured clone of Instagram built using **Android Studio**, **Kotlin**, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ankit-yadav1234/Instagram-Clone.git
+
